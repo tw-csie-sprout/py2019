@@ -8,3 +8,7 @@
 
 - [型態、變數、運算與輸入輸出](https://drive.google.com/open?id=1SmI5dwkKStgTdLT8Upat7nSmBDUXA0rI)
 
+## 第二週投影片 03/10
+
+- [運算子/if條件句](https://drive.google.com/drive/u/1/folders/1rPkh8AnffvYmnDJ0JbH8Lkj6NoqQtsBJ)
+
