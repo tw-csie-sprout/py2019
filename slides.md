@@ -10,5 +10,5 @@
 
 ## 第二週投影片 03/10
 
-- [運算子/if條件句](https://drive.google.com/drive/u/1/folders/1rPkh8AnffvYmnDJ0JbH8Lkj6NoqQtsBJ)
+- [運算子/if條件句](https://drive.google.com/file/d/1fgBiOskO0ArKpHqueB4UH0Ps8n788Bi_/view)
 
