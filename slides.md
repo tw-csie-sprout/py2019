@@ -11,4 +11,6 @@
 ## 第二週投影片 03/10
 
 - [運算子/if條件句](https://drive.google.com/file/d/1fgBiOskO0ArKpHqueB4UH0Ps8n788Bi_/view)
+- [If note](note/if note.html)
 - [while-loop](https://drive.google.com/open?id=1fLicYqjAH2oX61yVKj_vFb4nLDR1hXwm) 
+
