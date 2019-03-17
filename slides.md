@@ -18,4 +18,6 @@
 
 ## 第三週投影片 03/17
 
+- [For](https://drive.google.com/file/d/1Gh-mMa8S0z6gaccmUhNuYcKOZaxe3F8v/view?usp=sharing)
+
 - [List](https://drive.google.com/drive/u/0/folders/1K7LEihTClzSi22ktEgbEGsfBBhBsw9Hk?fbclid=IwAR2JEI8d35A27LuuO63I2AG6Z_zkvFy7WANpHYbgqNsENU3BCG8j5JCAe7M)
