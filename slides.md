@@ -16,3 +16,6 @@
 
 - [while-loop](https://drive.google.com/open?id=1fLicYqjAH2oX61yVKj_vFb4nLDR1hXwm) 
 
+## 第三週投影片 03/17
+
+- [List](https://drive.google.com/drive/u/0/folders/1K7LEihTClzSi22ktEgbEGsfBBhBsw9Hk?fbclid=IwAR2JEI8d35A27LuuO63I2AG6Z_zkvFy7WANpHYbgqNsENU3BCG8j5JCAe7M)
