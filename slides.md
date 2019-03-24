@@ -27,3 +27,5 @@
 ## 第四週投影片 03/24
 
 - [Dictionary](https://hackmd.io/p/Hy9tMyMw4#/)
+
+- [Dictionary note](note/Dictionary_note.html)
