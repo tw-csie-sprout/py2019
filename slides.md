@@ -21,4 +21,4 @@
 ## 第四週投影片 03/24
 
 - [Dictionary](https://hackmd.io/p/Hy9tMyMw4#/)
-- [String](https://drive.google.com/file/d/0B5P2VH3szaKEV2RyMjhnVG1MZzg/view)
+
