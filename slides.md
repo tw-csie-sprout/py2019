@@ -23,3 +23,7 @@
 - [List](https://drive.google.com/drive/u/0/folders/1K7LEihTClzSi22ktEgbEGsfBBhBsw9Hk?fbclid=IwAR2JEI8d35A27LuuO63I2AG6Z_zkvFy7WANpHYbgqNsENU3BCG8j5JCAe7M)
 
 - [上週忘記講的練習題-輾轉相除法](https://drive.google.com/open?id=12jhth0CgzqHkEYokDiP4dsgzpLNAwx_hVmfgeVkIu_c)
+
+## 第四週投影片 03/24
+
+- [Dictionary](https://hackmd.io/p/Hy9tMyMw4#/)
