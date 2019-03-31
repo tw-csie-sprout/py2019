@@ -24,3 +24,8 @@
 - [Dictionary](https://hackmd.io/p/Hy9tMyMw4#/)
 - [Dictionary note](note/Dictionary_note.html)
 - [String](https://drive.google.com/open?id=1wxJuAHOsgV_xIf-yeXyrou5zOByUJ5AF)
+
+## 第五週投影片 03/31
+
+- [Function](https://drive.google.com/open?id=1qHpsbcJrWtL2j5VEyfHRApYhH0ztRKHj)
+- [Function note](note/function_note.html)
