@@ -31,3 +31,5 @@
 
 - [Function](https://drive.google.com/open?id=1qHpsbcJrWtL2j5VEyfHRApYhH0ztRKHj)
 - [Function note](note/function_note.html)
+- [Function-進階](https://drive.google.com/open?id=1sLEhoyJOygVqU3oyzlSm20705OWq4f_X)
+- [Function-note進階](note/function_note_complete.html)
