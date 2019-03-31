@@ -15,7 +15,7 @@
 
 ## 大作業
 
-* 檔案：[大作業檔案](https://drive.google.com/open?id=1y0m7llx6Jag3hhCDvT3HYnLQIHq4F7Nu)
+* 檔案：[大作業檔案Windows](https://drive.google.com/open?id=1y0m7llx6Jag3hhCDvT3HYnLQIHq4F7Nu), [大作業檔案Mac](https://drive.google.com/file/d/17mp_Ia0-tbjrDXidtO4UUB240Zt-Hgsb/view?usp=sharing)
 * 投影片：[slides](https://drive.google.com/open?id=10pl47qUUQ5SpiFkUM2oaIIu7e1yU6n_m)
 * 繳交情況：[繳交表單](https://drive.google.com/open?id=1ZdpVto4A_pT5nXbC8TI4QTT_-0R42Ve4L3ZuuxLAnuM)
 * 繳交期限：4/20(Sat.) 22:00
