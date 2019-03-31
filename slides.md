@@ -25,3 +25,8 @@
 - [Dictionary note](note/Dictionary_note.html)
 - [Dictionary cheatSheet](https://hackmd.io/EGcmOiPVR3qqMA6BfYYZvw?view)
 - [String](https://drive.google.com/open?id=1wxJuAHOsgV_xIf-yeXyrou5zOByUJ5AF)
+
+## 第五週投影片 03/31
+
+- [Function](https://drive.google.com/open?id=1qHpsbcJrWtL2j5VEyfHRApYhH0ztRKHj)
+- [Function note](note/function_note.html)
