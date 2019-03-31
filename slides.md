@@ -23,4 +23,5 @@
 
 - [Dictionary](https://hackmd.io/p/Hy9tMyMw4#/)
 - [Dictionary note](note/Dictionary_note.html)
+- [Dictionary cheatSheet](https://hackmd.io/EGcmOiPVR3qqMA6BfYYZvw?view)
 - [String](https://drive.google.com/open?id=1wxJuAHOsgV_xIf-yeXyrou5zOByUJ5AF)
