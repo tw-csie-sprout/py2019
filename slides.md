@@ -33,3 +33,7 @@
 - [Function note](note/function_note.html)
 - [Function-進階](https://drive.google.com/open?id=1sLEhoyJOygVqU3oyzlSm20705OWq4f_X)
 - [Function-note進階](note/function_note_complete.html)
+
+## 第六週投影片 04/07
+
+- [Import](https://drive.google.com/file/d/1s52y3qwKqBaJrX84w8m1Qm7G6S9i2Gl1/view)
