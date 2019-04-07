@@ -37,3 +37,5 @@
 ## 第六週投影片 04/07
 
 - [Import](https://drive.google.com/file/d/1s52y3qwKqBaJrX84w8m1Qm7G6S9i2Gl1/view)
+
+- [Import note](note/import_note.html)
