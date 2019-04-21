@@ -38,3 +38,10 @@
 
 - [Import](https://drive.google.com/file/d/1s52y3qwKqBaJrX84w8m1Qm7G6S9i2Gl1/view)
 - [Import note](note/import_note.html)
+
+## 第七週投影片 04/21
+
+- [File I/O](https://hackmd.io/p/BJopIpSF4#/)
+- [File I/O note](https://htmlpreview.github.io/?https://github.com/robert1003/temporary/blob/master/File%20IO.html)
+
+
