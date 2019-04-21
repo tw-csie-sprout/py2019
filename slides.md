@@ -43,5 +43,7 @@
 
 - [File I/O](https://hackmd.io/p/BJopIpSF4#/)
 - [File I/O note](https://htmlpreview.github.io/?https://github.com/robert1003/temporary/blob/master/File%20IO.html)
+- [複習](https://drive.google.com/open?id=1QC8tuhnBo7yA8y7Tt8pOWaYvyd7B1QlI)
+- [複習-note](note/review_note.html)
 
 
