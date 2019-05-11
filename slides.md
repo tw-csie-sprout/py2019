@@ -46,4 +46,7 @@
 - [複習](https://drive.google.com/open?id=1QC8tuhnBo7yA8y7Tt8pOWaYvyd7B1QlI)
 - [複習-note](note/review_note.html)
 
+# 第二階段
 
+## 第一週投影片 05/12
+- [Class 基礎](https://hackmd.io/p/BJDG3NDoE#/)
