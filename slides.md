@@ -51,4 +51,5 @@
 ## 第一週投影片 05/12
 - [二階課程說明](https://drive.google.com/open?id=1o7OKUk_AzwpRahuGwzC_HOmnV9GXZIN2)
 - [Class 基礎](https://hackmd.io/p/BJDG3NDoE#/)
+- [Pygame](https://drive.google.com/open?id=1Zjt4RU9lhnphYUfNGNRvPuekYsjKctWB)
 
