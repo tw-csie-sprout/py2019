@@ -53,3 +53,8 @@
 - [Class 基礎](https://hackmd.io/p/BJDG3NDoE#/)
 - [Pygame](https://drive.google.com/open?id=1Zjt4RU9lhnphYUfNGNRvPuekYsjKctWB)
 
+## 第二週投影片 05/19
+- [NumPy & Matplotlib](https://drive.google.com/open?id=1PjJmynsyKqyHmfSqFw5WfjjtKURtwKm5)
+- [NumPy note](note/NumPy.html)
+- [Matplotlib note](note/Matplotlib.html)
+
