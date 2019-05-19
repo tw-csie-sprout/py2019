@@ -54,6 +54,8 @@
 - [Pygame](https://drive.google.com/open?id=1Zjt4RU9lhnphYUfNGNRvPuekYsjKctWB)
 
 ## 第二週投影片 05/19
+- [Pygame DoodleJump](https://drive.google.com/open?id=1JIC5NjL91vWsLLJucGGUxehPso_fNg7V)
+- [hw_DoodleJump.zip](https://drive.google.com/open?id=18TtfzBXAanlMeITTpd7kNPjno6stbHvk)
 - [NumPy & Matplotlib](https://drive.google.com/open?id=1PjJmynsyKqyHmfSqFw5WfjjtKURtwKm5)
 - [NumPy note](note/NumPy.html)
 - [Matplotlib note](note/Matplotlib.html)
