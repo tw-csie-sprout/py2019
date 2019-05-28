@@ -43,5 +43,22 @@
 
 - [File I/O](https://hackmd.io/p/BJopIpSF4#/)
 - [File I/O note](https://htmlpreview.github.io/?https://github.com/robert1003/temporary/blob/master/File%20IO.html)
+- [複習](https://drive.google.com/open?id=1QC8tuhnBo7yA8y7Tt8pOWaYvyd7B1QlI)
+- [複習-note](note/review_note.html)
 
+# 第二階段
 
+## 第一週投影片 05/12
+- [二階課程說明](https://drive.google.com/open?id=1o7OKUk_AzwpRahuGwzC_HOmnV9GXZIN2)
+- [Class 基礎](https://hackmd.io/p/BJDG3NDoE#/)
+- [Pygame](https://drive.google.com/open?id=1Zjt4RU9lhnphYUfNGNRvPuekYsjKctWB)
+
+## 第二週投影片 05/19
+- [Pygame DoodleJump](https://drive.google.com/open?id=1JIC5NjL91vWsLLJucGGUxehPso_fNg7V)
+- [hw_DoodleJump.zip](https://drive.google.com/open?id=18TtfzBXAanlMeITTpd7kNPjno6stbHvk)
+- [NumPy & Matplotlib](https://drive.google.com/open?id=1PjJmynsyKqyHmfSqFw5WfjjtKURtwKm5)
+- [NumPy note](note/NumPy.html)
+- [Matplotlib note](note/Matplotlib.html)
+
+## 第三週投影片 05/26
+- [ML week1](https://drive.google.com/file/d/17_TovuaVg2seoWbS0pqyj0zzYwEASH_U/view?usp=sharing)
