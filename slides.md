@@ -62,3 +62,6 @@
 
 ## 第三週投影片 05/26
 - [ML week1](https://drive.google.com/file/d/17_TovuaVg2seoWbS0pqyj0zzYwEASH_U/view?usp=sharing)
+
+## 第四週投影片 06/02
+- [ML week2](https://drive.google.com/file/d/19hF6torYO1K6I3Lj6fCszYvkrF6a8rLV/view)
