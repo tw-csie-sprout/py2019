@@ -66,3 +66,4 @@
 ## 第四週投影片 06/02
 - [ML week2](https://drive.google.com/file/d/19hF6torYO1K6I3Lj6fCszYvkrF6a8rLV/view)
 - [ML homework](https://drive.google.com/file/d/1IHUP2573xC81kIibwXsfFbn5wXlfrpUL/view?usp=sharing)
+- [ML CNN note](note/machine_learning_CNN.html)
