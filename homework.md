@@ -20,3 +20,10 @@
 * 投影片：[slides](https://drive.google.com/open?id=10pl47qUUQ5SpiFkUM2oaIIu7e1yU6n_m)
 * 繳交情況：[繳交表單](https://drive.google.com/open?id=1ZdpVto4A_pT5nXbC8TI4QTT_-0R42Ve4L3ZuuxLAnuM)
 * 繳交期限：4/20(Sat.) 22:00
+
+## 小作業 1: Pygame_DoodleJump
+
+* 檔案：[小作業1檔案](https://drive.google.com/open?id=18TtfzBXAanlMeITTpd7kNPjno6stbHvk)
+* 投影片：[slides](https://drive.google.com/open?id=1JIC5NjL91vWsLLJucGGUxehPso_fNg7V)
+* 繳交方式：寄信至 sprout@csie.ntu.edu.tw，信件標題寫 "[py班]姓名_pygame作業繳交"
+* 繳交期限：6/23(Sun.) 23:59
