@@ -28,3 +28,9 @@
 * 投影片：[slides](https://drive.google.com/open?id=1JIC5NjL91vWsLLJucGGUxehPso_fNg7V)
 * 繳交方式：寄信至 sprout@csie.ntu.edu.tw，信件標題寫 "[py班]姓名_pygame作業繳交"
 * 繳交期限：6/23(Sun.) 23:59
+
+### 2. ML: Train your hands!
+* 檔案：[Training data](https://drive.google.com/drive/folders/1nKjjgYKyF6I8skoodF2TS9zVl8VO3aXv?usp=sharing)
+* 投影片：[slides](https://drive.google.com/file/d/1IHUP2573xC81kIibwXsfFbn5wXlfrpUL/view)
+* 繳交方式：TBD
+* 繳交期限：6/23(Sun.) 23:59
