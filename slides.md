@@ -68,3 +68,7 @@
 - [ML homework](https://drive.google.com/file/d/1IHUP2573xC81kIibwXsfFbn5wXlfrpUL/view?usp=sharing)
 - [ML CNN note](note/machine_learning_CNN.html)
 - [ML CNN ipynb](note/machine_learning_CNN.ipynb)
+
+## 第五週投影片 06/09
+- [Flask 介紹](https://drive.google.com/open?id=1bBirExaVgVHJlyMukI4XWbjdEbdfNBU-)
+- [Flask 作業說明](https://drive.google.com/open?id=1rPccF178cinN_3icL45OGGSCgMYrk1Vk)

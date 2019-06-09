@@ -34,3 +34,11 @@
 * 投影片：[slides](https://drive.google.com/file/d/1IHUP2573xC81kIibwXsfFbn5wXlfrpUL/view)
 * 繳交方式：TBD
 * 繳交期限：6/23(Sun.) 23:59
+
+### 3. Flask: My stupid TODO list!
+* 檔案：[flask_hw](https://drive.google.com/open?id=1roYb5Subj0YrctlHzISPXcuJmgkSIvey)
+* 投影片：[slides](https://drive.google.com/open?id=1rPccF178cinN_3icL45OGGSCgMYrk1Vk)
+* 繳交方式：寄信至 sprout@csie.ntu.edu.tw，信件標題寫 "[py班]姓名_flask作業繳交"
+* 繳交期限：6/23(Sun.) 23:59
+
+
