@@ -72,3 +72,6 @@
 ## 第五週投影片 06/09
 - [Flask 介紹](https://drive.google.com/open?id=1bBirExaVgVHJlyMukI4XWbjdEbdfNBU-)
 - [Flask 作業說明](https://drive.google.com/open?id=1rPccF178cinN_3icL45OGGSCgMYrk1Vk)
+
+## 第六週投影片 06/16
+- [爬蟲先備知識](https://drive.google.com/open?id=17ZpKyvustpsXGtPrqls12PBSP46F9XtS)
