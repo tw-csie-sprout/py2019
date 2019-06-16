@@ -75,3 +75,5 @@
 
 ## 第六週投影片 06/16
 - [爬蟲先備知識](https://drive.google.com/open?id=17ZpKyvustpsXGtPrqls12PBSP46F9XtS)
+- [爬蟲](https://hackmd.io/Fy4a5oVmQI2mXW50zJmkEg)
+
