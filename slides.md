@@ -77,3 +77,7 @@
 - [爬蟲先備知識](https://drive.google.com/open?id=17ZpKyvustpsXGtPrqls12PBSP46F9XtS)
 - [爬蟲](https://hackmd.io/Fy4a5oVmQI2mXW50zJmkEg)
 
+## 第七週投影片 06/23
+- [衛教宣導](https://drive.google.com/open?id=15LMKlWDOc8KCp1QqmmW3SRiTWE0En4sl)
+- [演算法與資料結構](https://drive.google.com/open?id=1n1_3NyBcvEyNlxLHORXN2feInsI8nTVi)
+- [Future](https://drive.google.com/open?id=15WfI6PcMRNTFoNCKL0IjlKz2IUlWZxGe)
